@@ -2,7 +2,7 @@
 
 My name is Paulo and I'm a Machine Learning Engineer working at [Nubank](https://nubank.com.br/en/)! 
 
-- 🔭 I’m currently beuilding tools to make Data Scientists' lifes easier and deploy machine learning models faster.
+- 🔭 I’m currently building tools to make Data Scientists' lifes easier and deploy machine learning models faster.
 - 🌱 I’m currently learning:
   -   🌊 Streaming data processing with [Spark](http://spark.apache.org/docs/latest/structured-streaming-programming-guide.html)
   -   🦀 Low-level programming with [Rust](https://www.rust-lang.org/) and
